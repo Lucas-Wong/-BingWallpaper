@@ -1,10 +1,10 @@
 # BingWallpaper
 ## Open Source
-使用[Apache License](https://github.com/eaglexiang/BingWallpaper/blob/master/LICENSE)开源
+使用[Apache License](https://github.com/Lucas-Wong/-BingWallpaper/blob/master/LICENSE)开源
 ## Communication 
-[联系方式](http://eaglexiang.xyz/about/) 
+[联系方式]() 
 ## Download
-[下载可执行程序](http://bybz.tech/) 
+[下载可执行程序]() 
 ## Logs 
 ### 1.12
 * 提高抓取速度与稳定性
